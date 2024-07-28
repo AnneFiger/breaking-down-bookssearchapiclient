@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+            <root>
+                <element>
+                    <book>
+                        <author>Shakespeare</author>
+                        <isbn>ISBN 0-061-96436-0</isbn>
+                        <title>Macbeth</title>
+                    </book>
+                    <stock>
+                        <price>5</price>
+                        <quantity>10</quantity>
+                    </stock>
+                </element>
+                <element>
+                    <book>
+                        <author>Shakespeare</author>
+                        <isbn>ISBN 0-061-96436-2</isbn>
+                        <title>Othello</title>
+                    </book>
+                    <stock>
+                        <price>10</price>
+                        <quantity>5</quantity>
+                    </stock>
+                </element>
+            </root>
